@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.2:1", "", "Architecture Goals", "EARoot/EA2/EA2/EA63.htm", "175.png", "3", "0", "", "Logical diagram0","{84CCB32B-0C0E-4a48-A37A-FEFDD80BFB80}");
+tocTab[tocTab.length] = new Array("0.2.2:2", "", "«Functional» Efisiensi Organisasi, Organizational Efficiency", "EARoot/EA2/EA2/EA68.htm", "19.png", "E66", "0", "", "Requirement0","{49976FCD-AD2E-44d3-80C5-58199D12AF19}");
+tocTab[tocTab.length] = new Array("0.2.2:3", "", "Kestabilan Kualitas dan Mutu", "EARoot/EA2/EA2/EA69.htm", "19.png", "E67", "0", "", "Requirement0","{754EE935-A1BD-46e2-89F7-05B0EC82FC81}");
+tocTab[tocTab.length] = new Array("0.2.2:4", "", "Pedoman Organisasi, Organizational Guidelines", "EARoot/EA2/EA2/EA70.htm", "19.png", "E68", "0", "", "Requirement0","{7A5FCA78-5767-45a3-8799-0B778474D026}");
+tocTab[tocTab.length] = new Array("0.2.2:5", "", "Stabilitas Organisasi, Organizational Stability", "EARoot/EA2/EA2/EA71.htm", "19.png", "E69", "0", "", "Requirement0","{A4E2D5C4-8CE6-48fe-A8AC-95880DF2EE40}");

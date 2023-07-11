@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.3.1:3", "", "«Risk» Pengelolaan Pengabdian Masyarakat", "EARoot/EA3/EA3/EA1/EA311.htm", "238.png", "E238", "0", "", "Risk0","{F01318F0-66F6-456d-A4BD-7805185EFC2E}");
+tocTab[tocTab.length] = new Array("0.3.3.1:4", "", "«Risk» Pengelolaan Riset dan Penelitian", "EARoot/EA3/EA3/EA1/EA312.htm", "238.png", "E239", "0", "", "Risk0","{F48BC74F-6BC8-439f-9004-2BD5A7DEC78F}");
+tocTab[tocTab.length] = new Array("0.3.3.1:5", "", "«Risk» Sumber Daya Manusia", "EARoot/EA3/EA3/EA1/EA313.htm", "238.png", "E232", "0", "", "Risk0","{8304E931-027F-437e-91DA-1EF38103A271}");
+tocTab[tocTab.length] = new Array("0.3.3.1:6", "", "«Risk» Tata Usaha", "EARoot/EA3/EA3/EA1/EA314.htm", "238.png", "E233", "0", "", "Risk0","{87554105-C7AD-4f39-9C2A-F99972F5DA65}");
+tocTab[tocTab.length] = new Array("0.3.3.1:1", "", "Pengelolaan Pengabdian Masyarakat", "EARoot/EA3/EA3/EA1/EA306.htm", "175.png", "12", "E238", "", "Logical diagram0","{45C5F098-24A4-4c9a-BC5D-C8F877C7DD1C}");
+tocTab[tocTab.length] = new Array("0.3.3.1:2", "", "Pengelolaan Riset dan Penelitian", "EARoot/EA3/EA3/EA1/EA308.htm", "175.png", "13", "E239", "", "Logical diagram0","{B8641993-C007-41f3-A1C6-E0B7F09BC697}");

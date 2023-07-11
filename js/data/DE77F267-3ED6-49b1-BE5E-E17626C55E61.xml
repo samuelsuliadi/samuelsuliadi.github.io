@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.2.6:2", "", "Organization Decomposition Diagram", "EARoot/EA2/EA6/EA197.htm", "189.png", "7", "0", "", "Analysis diagram0","{783D60B6-0323-4d84-B5EC-E17DCE69BC11}");
+tocTab[tocTab.length] = new Array("0.2.6:3", "", "«BusinessProcess» BusinessProcess1", "EARoot/EA2/EA6/EA201.htm", "4C9380A5-0_BusinessProcess.png", "E176", "0", "", "Activity0","{BD0C8DFC-C2B1-4c0b-8D63-99EF41910258}");
+tocTab[tocTab.length] = new Array("0.2.6:4", "", "«Lane» GUGUS INKUBATOR UNIT BISNIS", "EARoot/EA2/EA6/EA202.htm", "116.png", "E180", "0", "", "ActivityPartition0","{DB177C97-D29A-441a-A2F6-2ED78E3204C9}");
+tocTab[tocTab.length] = new Array("0.2.6:5", "", "«Lane» GUGUS KERJASAMA", "EARoot/EA2/EA6/EA203.htm", "116.png", "E173", "0", "", "ActivityPartition0","{592819C3-617F-4b89-9C51-6F8620F489E3}");
+tocTab[tocTab.length] = new Array("0.2.6:6", "", "«Lane» GUGUS PENJAMIN MUTU", "EARoot/EA2/EA6/EA204.htm", "116.png", "E171", "0", "", "ActivityPartition0","{466AE869-FFCC-4b1a-8EBD-02619E7D26A3}");
+tocTab[tocTab.length] = new Array("0.2.6:7", "", "«Lane» KELEMBAGAAN LPPM", "EARoot/EA2/EA6/EA205.htm", "116.png", "E179", "0", "", "ActivityPartition0","{CFD0380C-41F5-4a47-9741-D0E17A4AC13D}");
+tocTab[tocTab.length] = new Array("0.2.6:8", "", "«Lane» PUSAT DESIMINASI TEKNOLOGI DAN KEKAYAAN INTELEKTUAL (KI)", "EARoot/EA2/EA6/EA207.htm", "116.png", "E178", "0", "", "ActivityPartition0","{C8FDAF67-28F4-4da8-9A11-73A4984DB54D}");
+tocTab[tocTab.length] = new Array("0.2.6:9", "", "«Lane» PUSAT PEMBERDAYAAN MASYARAKAT", "EARoot/EA2/EA6/EA208.htm", "116.png", "E170", "0", "", "ActivityPartition0","{3854BAFC-40B0-45e9-B439-D79DB56215DD}");
+tocTab[tocTab.length] = new Array("0.2.6:10", "", "«Lane» PUSAT PENGEMBANGAN JURNAL DAN PUBLIKASI", "EARoot/EA2/EA6/EA209.htm", "116.png", "E174", "0", "", "ActivityPartition0","{819640CE-E84F-4dc9-A677-C8FF31D0A098}");
+tocTab[tocTab.length] = new Array("0.2.6:11", "", "«Lane» PUSBANG KKN", "EARoot/EA2/EA6/EA210.htm", "116.png", "E169", "0", "", "ActivityPartition0","{09509E71-AC6F-4e72-8C49-87F3F2546F09}");
+tocTab[tocTab.length] = new Array("0.2.6:12", "", "«Lane» SEKRETARIAT LPPM", "EARoot/EA2/EA6/EA211.htm", "116.png", "E168", "0", "", "ActivityPartition0","{04F708D9-3033-4dd3-A8AC-83C6A663BFD2}");
+tocTab[tocTab.length] = new Array("0.2.6:13", "", "«Lane» SUB KOORDINATOR PROGRAM DAN AKUNTANSI", "EARoot/EA2/EA6/EA212.htm", "116.png", "E175", "0", "", "ActivityPartition0","{93C7A7C3-9447-4edc-AA75-867BBB31357C}");
+tocTab[tocTab.length] = new Array("0.2.6:14", "", "«Lane» SUB KOORDINATOR UMUM", "EARoot/EA2/EA6/EA213.htm", "116.png", "E172", "0", "", "ActivityPartition0","{519FC957-08F1-4fed-AC9D-AF1D874B9180}");
+tocTab[tocTab.length] = new Array("0.2.6:1", "", "BusinessProcess1", "EARoot/EA2/EA6/EA195.htm", "189.png", "8", "E176", "", "Analysis diagram0","{DFDE1EB9-B47B-4615-A2C7-668F167DB1E1}");

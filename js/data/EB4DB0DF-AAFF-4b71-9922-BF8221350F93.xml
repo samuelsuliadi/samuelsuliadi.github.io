@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Artifact", "EARoot/EA1/EA10.htm", "31.png", "", "", "{3ED59B58-0B2E-4c11-9C75-3D6075A99B89}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Architecture Vision", "EARoot/EA2/EA11.htm", "31.png", "", "", "{38091AC6-AF3C-4838-9056-A1DA79BDCD64}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Business Architecture", "EARoot/EA3/EA214.htm", "31.png", "", "", "{7AC3AF00-6445-4b03-AB23-E4DFA707AA4E}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Data Architecture", "EARoot/EA4/EA1756.htm", "31.png", "", "", "{6859D6C9-DBD8-49d6-A85B-92F308603A9F}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Application Architecture", "EARoot/EA5/EA1874.htm", "31.png", "", "", "{EFAB684C-63A2-4d5a-A65F-7F7B41CEF224}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Architecture Implementation", "EARoot/EA6/EA2046.htm", "31.png", "", "", "{80466380-D415-4f14-8A2D-1A634F06C7C3}", "Package");

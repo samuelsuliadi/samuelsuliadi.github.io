@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.1", "1", "Application Principles", "EARoot/EA5/EA1/EA1884.htm", "4.png", "", "", "{AEBF4D8F-0B13-4c97-9ABD-3B876D0EED62}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2", "1", "Application Portfolio Catalog", "EARoot/EA5/EA2/EA1892.htm", "4.png", "", "", "{B8147A28-3617-4865-B3D3-B26EE12D75F2}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3", "1", "Application Use Case Diagram", "EARoot/EA5/EA3/EA1896.htm", "4.png", "", "", "{A003C48A-C1C5-4327-9CE8-712CD753924C}", "Package");
+tocTab[tocTab.length] = new Array("0.5.4", "1", "Application Comunication Diagram", "EARoot/EA5/EA4/EA2023.htm", "4.png", "", "", "{99B6AD21-B2FA-4207-B498-C2656BF72D1D}", "Package");
+tocTab[tocTab.length] = new Array("0.5.5", "1", "Application User and Location Diagram", "EARoot/EA5/EA5/EA2030.htm", "4.png", "", "", "{F9935E59-3B0B-4288-AF1B-B9304863B8D7}", "Package");
+tocTab[tocTab.length] = new Array("0.5.6", "1", "Application-Business Process Matrix", "EARoot/EA5/EA6/EA2038.htm", "4.png", "", "", "{86562E48-7F7A-4800-9A56-DC8630CE38BA}", "Package");
+tocTab[tocTab.length] = new Array("0.5.7", "1", "Application-Data Matrix", "EARoot/EA5/EA7/EA2043.htm", "4.png", "", "", "{585041FE-24EE-4d99-9692-D659786D7A45}", "Package");

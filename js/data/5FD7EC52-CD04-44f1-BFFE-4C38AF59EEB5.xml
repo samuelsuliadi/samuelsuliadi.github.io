@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.3.5.4.2:1", "", "Umum", "EARoot/EA3/EA5/EA4/EA2/EA1605.htm", "189.png", "106", "0", "", "Analysis diagram0","{5DCAF197-BD83-46d0-A24E-C3899D67D7C2}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:2", "", "«Pool» Umum", "EARoot/EA3/EA5/EA4/EA2/EA1612.htm", "116.png", "E996", "0", "", "ActivityPartition0","{EA4D89D1-3CFA-45cb-B015-C129843398F8}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:3", "", "«Activity» Peminjaman Arsip", "EARoot/EA3/EA5/EA4/EA2/EA1613.htm", "4C9380A5-0_Activity.png", "E1001", "E996", "", "Activity0","{5A811820-EC43-44a4-8B15-46B012C7FB06}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:4", "", "«Activity» Pemusnahan Arsip", "EARoot/EA3/EA5/EA4/EA2/EA1614.htm", "4C9380A5-0_Activity.png", "E1002", "E996", "", "Activity0","{70ECD165-E604-4b97-9BCB-C723642D0062}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:5", "", "«Activity» Pencatatan Barang Milik Negara", "EARoot/EA3/EA5/EA4/EA2/EA1615.htm", "4C9380A5-0_Activity.png", "E997", "E996", "", "Activity0","{4F7BE823-6B5F-4a0f-8BE9-4DBFDFAA8B9F}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:6", "", "«Activity» Pencatatan Persediaan", "EARoot/EA3/EA5/EA4/EA2/EA1616.htm", "4C9380A5-0_Activity.png", "E998", "E996", "", "Activity0","{C115AD1D-C6F6-4f92-9B82-B077036A32EE}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:7", "", "«Activity» Surat Keluar", "EARoot/EA3/EA5/EA4/EA2/EA1617.htm", "4C9380A5-0_Activity.png", "E1000", "E996", "", "Activity0","{8E9FC726-825F-4f58-B3F3-E6E09B153300}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2:8", "", "«Activity» Surat Masuk", "EARoot/EA3/EA5/EA4/EA2/EA1618.htm", "4C9380A5-0_Activity.png", "E999", "E996", "", "Activity0","{18FD1EE3-04F0-49bb-BAAE-C998C5AB9A86}");
+tocTab[tocTab.length] = new Array("0.3.5.4.2.1", "1", "Pencatatan Barang Milik Negara", "EARoot/EA3/EA5/EA4/EA2/EA1/EA1621.htm", "4.png", "", "", "{FC7C4FCE-C3B7-4f44-AC6A-2B305B7AD54E}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.4.2.2", "1", "Pencatatan Persediaan", "EARoot/EA3/EA5/EA4/EA2/EA2/EA1638.htm", "4.png", "", "", "{A050BE8C-A053-4fd3-8F99-E5C46A2C4E10}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.4.2.3", "1", "Surat Keluar", "EARoot/EA3/EA5/EA4/EA2/EA3/EA1660.htm", "4.png", "", "", "{4B5E49B8-48C4-4bbb-ADF7-C21EE6363257}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.4.2.4", "1", "Surat Masuk", "EARoot/EA3/EA5/EA4/EA2/EA4/EA1677.htm", "4.png", "", "", "{76C91B67-EAEA-4a97-9A0F-AACAD66050CD}", "Package");

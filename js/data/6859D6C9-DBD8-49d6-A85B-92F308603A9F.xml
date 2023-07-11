@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4.1", "1", "Data Principles", "EARoot/EA4/EA1/EA1764.htm", "4.png", "", "", "{97254D6E-D609-4ca4-8ED6-95E108B3C1E8}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "1", "Data Portfolio Catalog", "EARoot/EA4/EA2/EA1771.htm", "4.png", "", "", "{4EB13864-F5E5-411c-8F1B-04C38270A89C}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3", "1", "Data Model Diagram", "EARoot/EA4/EA3/EA1856.htm", "4.png", "", "", "{23143BA5-8B87-46bb-AE5B-0E49F47D7D5B}", "Package");
+tocTab[tocTab.length] = new Array("0.4.4", "1", "Data-Business Process Matrix", "EARoot/EA4/EA4/EA1867.htm", "4.png", "", "", "{5A80C2BC-339A-4ef3-9710-40883B648CA2}", "Package");
+tocTab[tocTab.length] = new Array("0.4.5", "1", "Data-Application Matrix", "EARoot/EA4/EA5/EA1871.htm", "4.png", "", "", "{F6343FAE-A6B8-472d-93C3-40EC009E7B9C}", "Package");

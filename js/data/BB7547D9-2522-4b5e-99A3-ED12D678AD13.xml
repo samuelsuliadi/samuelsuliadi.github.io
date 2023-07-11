@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3.4.1:1", "", "«kpi» Melakukan Pemesanan KKN", "EARoot/EA3/EA4/EA1/EA352.htm", "5.png", "E1690", "0", "", "Class0","{60B994E6-C955-4129-8CE6-22C317C66C6C}");
+tocTab[tocTab.length] = new Array("0.3.4.1:2", "", "«KPI» Jumlah Inovasi Baru", "EARoot/EA3/EA4/EA1/EA353.htm", "5.png", "E243", "0", "", "Class0","{60FBFC57-4D55-4247-A4C4-0281C009CC91}");
+tocTab[tocTab.length] = new Array("0.3.4.1:3", "", "«KPI» Jumlah Kerjasama Stakeholder Baru", "EARoot/EA3/EA4/EA1/EA354.htm", "5.png", "E242", "0", "", "Class0","{42579E92-2EDD-4b82-B7AF-C579FF30A42A}");
+tocTab[tocTab.length] = new Array("0.3.4.1:4", "", "«KPI» KPI1", "EARoot/EA3/EA4/EA1/EA355.htm", "5.png", "E248", "0", "", "Class0","{C55CF8B0-EB39-4121-BAD8-B182C410D146}");

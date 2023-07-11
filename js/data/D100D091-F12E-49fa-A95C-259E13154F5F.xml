@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.3.5.3.7:1", "", "Pengelolaan Program MBKM UNNES GIAT", "EARoot/EA3/EA5/EA3/EA7/EA1219.htm", "189.png", "28", "0", "", "Analysis diagram0","{080CD73D-A472-4b0d-859C-EC5AE1A4CE22}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:2", "", "«Pool» Aplikasi", "EARoot/EA3/EA5/EA3/EA7/EA1224.htm", "116.png", "E1721", "0", "", "ActivityPartition0","{6DE0A38D-0B00-49b6-83B1-21B22ED1C94A}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:3", "", "«Pool» Data", "EARoot/EA3/EA5/EA3/EA7/EA1225.htm", "116.png", "E1723", "0", "", "ActivityPartition0","{357C77B8-2C12-477f-8C67-3BC7290B08F8}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:4", "", "«Pool» KPI", "EARoot/EA3/EA5/EA3/EA7/EA1226.htm", "116.png", "E1724", "0", "", "ActivityPartition0","{0A93405B-E22A-4aa5-86D9-7B404D1F25EE}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:5", "", "«Pool» Pengelolaan Program KKN UNNES GIAT", "EARoot/EA3/EA5/EA3/EA7/EA1227.htm", "116.png", "E352", "0", "", "ActivityPartition0","{16B60422-4C70-43ef-AB32-05DEC0BEC142}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:6", "", "«Pool» Risk", "EARoot/EA3/EA5/EA3/EA7/EA1228.htm", "116.png", "E1725", "0", "", "ActivityPartition0","{4D2956B0-29C6-4cf2-AAA4-472D52C27116}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:7", "", "«Pool» Standar dan Tata Kelola", "EARoot/EA3/EA5/EA3/EA7/EA1229.htm", "116.png", "E1722", "0", "", "ActivityPartition0","{1EF0FB14-D48E-4dc4-9E79-BC59AC7C954D}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:8", "", "«Activity» Pelaksanaan  Program UNNES GIAT", "EARoot/EA3/EA5/EA3/EA7/EA1230.htm", "4C9380A5-0_Activity.png", "E353", "E352", "", "Activity0","{63E3B272-C8EE-493a-9BCF-F5345947E2A1}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7:9", "", "«Activity» Perencanaan dan Pendaftaran UNNES GIAT", "EARoot/EA3/EA5/EA3/EA7/EA1231.htm", "4C9380A5-0_Activity.png", "E354", "E352", "", "Activity0","{B8863060-3FB9-4f69-A16F-29AA07F63958}");
+tocTab[tocTab.length] = new Array("0.3.5.3.7.1", "1", "Pelaksanaan  Program UNNES GIAT", "EARoot/EA3/EA5/EA3/EA7/EA1/EA1234.htm", "4.png", "", "", "{21E4DA9D-B80F-4c3f-8729-96A36CED9B84}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.3.7.2", "1", "Perencanaan dan Pendaftaran UNNES GIAT", "EARoot/EA3/EA5/EA3/EA7/EA2/EA1262.htm", "4.png", "", "", "{24F6E4F0-6B43-4d35-BC2A-C80EE242A23F}", "Package");

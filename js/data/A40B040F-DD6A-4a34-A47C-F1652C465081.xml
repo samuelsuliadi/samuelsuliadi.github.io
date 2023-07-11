@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.5.2.1:1", "", "Deseminasi Teknologi dan Kekayaan Intelektual", "EARoot/EA3/EA5/EA2/EA1/EA481.htm", "189.png", "145", "0", "", "Analysis diagram0","{D80AFE43-42A2-426f-AA9E-163AF68FAFAE}");
+tocTab[tocTab.length] = new Array("0.3.5.2.1:2", "", "«Pool» Deseminasi Teknologi dan Kekayaan Intelektual", "EARoot/EA3/EA5/EA2/EA1/EA487.htm", "116.png", "E1512", "0", "", "ActivityPartition0","{D1B81EEF-BF91-4c46-BEE3-64EA9338E948}");
+tocTab[tocTab.length] = new Array("0.3.5.2.1:3", "", "«Activity» Pendaftaran Hak Cipta", "EARoot/EA3/EA5/EA2/EA1/EA488.htm", "4C9380A5-0_Activity.png", "E1513", "E1512", "", "Activity0","{B7DE06EC-C124-4212-BE85-09036F0A4C8E}");
+tocTab[tocTab.length] = new Array("0.3.5.2.1:4", "", "«Activity» Pendaftaran Hak Paten", "EARoot/EA3/EA5/EA2/EA1/EA489.htm", "4C9380A5-0_Activity.png", "E1514", "E1512", "", "Activity0","{82817579-7084-410e-BB1B-1DE0C47D0D02}");
+tocTab[tocTab.length] = new Array("0.3.5.2.1:5", "", "«Activity» Pendaftaran Merk Dagang", "EARoot/EA3/EA5/EA2/EA1/EA490.htm", "4C9380A5-0_Activity.png", "E1515", "E1512", "", "Activity0","{FFF7EA8B-A1EC-46e4-B9BD-9628B90173C4}");
+tocTab[tocTab.length] = new Array("0.3.5.2.1.1", "1", "Pendaftaran Hak Cipta", "EARoot/EA3/EA5/EA2/EA1/EA1/EA493.htm", "4.png", "", "", "{8ACABC49-7297-458e-BFB6-7949AF22A017}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.2.1.2", "1", "Pendaftaran Hak Paten", "EARoot/EA3/EA5/EA2/EA1/EA2/EA513.htm", "4.png", "", "", "{F0569A40-DDB7-427b-90A4-7A9E98D41BCF}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.2.1.3", "1", "Pendaftaran Merk Dagang", "EARoot/EA3/EA5/EA2/EA1/EA3/EA534.htm", "4.png", "", "", "{9848DCB8-B013-4188-BB4C-4053233AC8C8}", "Package");

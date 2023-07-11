@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3.1:1", "", "Business Principles", "EARoot/EA3/EA1/EA225.htm", "188.png", "9", "0", "", "Custom diagram0","{12840B67-31F0-461b-A9A0-47481FFA139F}");
+tocTab[tocTab.length] = new Array("0.3.1:2", "", "«Principle» Fleksibilitas Organisasi, Organizational Flexibility", "EARoot/EA3/EA1/EA230.htm", "5.png", "E193", "0", "", "Class0","{D0FDC955-AFB8-4d2f-AD7B-2961A201EEBE}");
+tocTab[tocTab.length] = new Array("0.3.1:3", "", "«Principle» Kepatuhan, Obedience", "EARoot/EA3/EA1/EA231.htm", "5.png", "E191", "0", "", "Class0","{44FD1DB6-219B-408d-8F01-3B6DB077BBA7}");
+tocTab[tocTab.length] = new Array("0.3.1:4", "", "«Principle» Kesamaan Pemahaman, Common Understanding", "EARoot/EA3/EA1/EA232.htm", "5.png", "E194", "0", "", "Class0","{F9BB478D-01BB-4d0a-BA1A-9520C9636E98}");
