@@ -1,2 +1,3 @@
-tocTab[tocTab.length] = new Array("0.5.4:1", "", "Application Comunication Diagram", "EARoot/EA5/EA4/EA2021.htm", "179.png", "53", "0", "", "Deployment diagram0","{755B9563-F153-4a94-AA42-5CA3C663EBAE}");
-tocTab[tocTab.length] = new Array("0.5.4:2", "", "«ModelView» List of Elements in Package Website MBKM UNNES", "EARoot/EA5/EA4/EA2027.htm", "5.png", "E477", "0", "", "Class0","{1B5EA421-0F41-43a3-A6DA-2964E74C39ED}");
+tocTab[tocTab.length] = new Array("0.5.4:1", "", "Application Comunication Diagram", "EARoot/EA5/EA4/EA2022.htm", "179.png", "53", "0", "", "Deployment diagram0","{755B9563-F153-4a94-AA42-5CA3C663EBAE}");
+tocTab[tocTab.length] = new Array("0.5.4:2", "", "List of Elements in Package SiAnggar", "EARoot/EA5/EA4/EA2025.htm", "5.png", "E2257", "0", "", "Class0","{8266E96C-1395-48d8-A397-1295666377B6}");
+tocTab[tocTab.length] = new Array("0.5.4:3", "", "List of Elements in Package Website MBKM UNNES", "EARoot/EA5/EA4/EA2027.htm", "5.png", "E477", "0", "", "Class0","{1B5EA421-0F41-43a3-A6DA-2964E74C39ED}");

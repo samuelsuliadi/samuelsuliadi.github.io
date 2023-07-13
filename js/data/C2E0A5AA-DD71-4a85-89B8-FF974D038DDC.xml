@@ -1,7 +1,7 @@
 tocTab[tocTab.length] = new Array("0.3.5.2.3:1", "", "Pengelolaan Riset, Penelitian dan Inovasi Produk", "EARoot/EA3/EA5/EA2/EA3/EA679.htm", "189.png", "20", "0", "", "Analysis diagram0","{18873860-DB3B-418d-B38E-ADC6E2EE6CCC}");
-tocTab[tocTab.length] = new Array("0.3.5.2.3:2", "", "«Pool» Pengelolaan Riset, Penelitian dan Inovasi Produk", "EARoot/EA3/EA5/EA2/EA3/EA685.htm", "116.png", "E1330", "0", "", "ActivityPartition0","{E9D28F56-BD5C-400a-8DF2-E977952B623E}");
-tocTab[tocTab.length] = new Array("0.3.5.2.3:3", "", "«Activity» Penelitian Dana Eksternal", "EARoot/EA3/EA5/EA2/EA3/EA686.htm", "4C9380A5-0_Activity.png", "E1332", "E1330", "", "Activity0","{C63181BA-93DE-4067-A304-BEBD35036219}");
-tocTab[tocTab.length] = new Array("0.3.5.2.3:4", "", "«Activity» Penelitian Dana Internal", "EARoot/EA3/EA5/EA2/EA3/EA687.htm", "4C9380A5-0_Activity.png", "E1400", "E1330", "", "Activity0","{CE56B1DE-2D26-401c-AF49-233BEF3F4F48}");
+tocTab[tocTab.length] = new Array("0.3.5.2.3:2", "", "Pengelolaan Riset, Penelitian dan Inovasi Produk", "EARoot/EA3/EA5/EA2/EA3/EA685.htm", "116.png", "E1330", "0", "", "ActivityPartition0","{E9D28F56-BD5C-400a-8DF2-E977952B623E}");
+tocTab[tocTab.length] = new Array("0.3.5.2.3:3", "", "Penelitian Dana Eksternal", "EARoot/EA3/EA5/EA2/EA3/EA686.htm", "4C9380A5-0_Activity.png", "E1332", "E1330", "", "Activity0","{C63181BA-93DE-4067-A304-BEBD35036219}");
+tocTab[tocTab.length] = new Array("0.3.5.2.3:4", "", "Penelitian Dana Internal", "EARoot/EA3/EA5/EA2/EA3/EA687.htm", "4C9380A5-0_Activity.png", "E1400", "E1330", "", "Activity0","{CE56B1DE-2D26-401c-AF49-233BEF3F4F48}");
 tocTab[tocTab.length] = new Array("0.3.5.2.3.1", "1", "Lama", "EARoot/EA3/EA5/EA2/EA3/EA1/EA688.htm", "4.png", "", "", "{5ECF7112-7EB0-47a7-84D9-B5205A8433EA}", "Package");
 tocTab[tocTab.length] = new Array("0.3.5.2.3.2", "1", "Penelitian Dana Eksternal", "EARoot/EA3/EA5/EA2/EA3/EA2/EA755.htm", "4.png", "", "", "{4CC63063-169B-47ca-8BE9-7D191FADE833}", "Package");
 tocTab[tocTab.length] = new Array("0.3.5.2.3.3", "1", "Penelitian Dana Internal", "EARoot/EA3/EA5/EA2/EA3/EA3/EA842.htm", "4.png", "", "", "{950431F5-60CE-4702-BB1C-CAE58A778921}", "Package");

@@ -1,5 +1,5 @@
 tocTab[tocTab.length] = new Array("0.4.2:1", "", "Data Portfolio Catalog", "EARoot/EA4/EA2/EA1769.htm", "175.png", "42", "0", "", "Logical diagram0","{AE2B2ABE-3BFF-469d-9D2F-C1693C87BC55}");
-tocTab[tocTab.length] = new Array("0.4.2:2", "", "«ModelView» List of Elements in Package Data Portfolio Catalog", "EARoot/EA4/EA2/EA1772.htm", "5.png", "E2152", "0", "", "Class0","{B482DED2-2F56-4b2b-B0BB-C0B4C50763C4}");
+tocTab[tocTab.length] = new Array("0.4.2:2", "", "List of Elements in Package Data Portfolio Catalog", "EARoot/EA4/EA2/EA1772.htm", "5.png", "E2152", "0", "", "Class0","{B482DED2-2F56-4b2b-B0BB-C0B4C50763C4}");
 tocTab[tocTab.length] = new Array("0.4.2:3", "", "Berita Acara Pemeriksaan (BAP)", "EARoot/EA4/EA2/EA1773.htm", "5.png", "E1819", "E2152", "", "Class0","{48BF3745-F843-4787-8C24-FEE8D82E61C9}");
 tocTab[tocTab.length] = new Array("0.4.2:4", "", "Berkas Pendaftaran HKI", "EARoot/EA4/EA2/EA1774.htm", "5.png", "E1749", "E2152", "", "Class0","{E3E4E5EF-24F7-4e76-A837-8E658D38A31B}");
 tocTab[tocTab.length] = new Array("0.4.2:5", "", "BKK", "EARoot/EA4/EA2/EA1775.htm", "5.png", "E1961", "E2152", "", "Class0","{E268A7DB-D2E0-4a15-BD78-2E43A236282A}");

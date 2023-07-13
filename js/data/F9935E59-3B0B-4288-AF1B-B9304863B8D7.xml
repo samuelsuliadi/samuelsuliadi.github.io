@@ -1,3 +1,8 @@
 tocTab[tocTab.length] = new Array("0.5.5:1", "", "Application User and Location Diagram", "EARoot/EA5/EA5/EA2028.htm", "180.png", "54", "0", "", "Use Case diagram0","{1D8A2BE2-5518-4b35-8469-573FFB812AAE}");
-tocTab[tocTab.length] = new Array("0.5.5:2", "", "Database ", "EARoot/EA5/EA5/EA2034.htm", "8.png", "E484", "0", "", "Interface0","{AB068D40-5C57-4b35-91B3-E0FCEBC4DC78}");
-tocTab[tocTab.length] = new Array("0.5.5:3", "", "Google Web Service", "EARoot/EA5/EA5/EA2035.htm", "8.png", "E483", "0", "", "Interface0","{69548465-3F61-4822-BF19-61ECCD9045A1}");
+tocTab[tocTab.length] = new Array("0.5.5:2", "", "Bagian Keuangan dan Akuntansi", "EARoot/EA5/EA5/EA2031.htm", "6.png", "E2261", "0", "", "Actor0","{B494CE80-9A80-4b1f-922B-D85AA450A749}");
+tocTab[tocTab.length] = new Array("0.5.5:3", "", "Bagian Tata Usaha", "EARoot/EA5/EA5/EA2032.htm", "6.png", "E2263", "0", "", "Actor0","{DAE821E9-CCBA-4853-B106-F200897F09AC}");
+tocTab[tocTab.length] = new Array("0.5.5:4", "", "Mahasiswa dan Dosen ", "EARoot/EA5/EA5/EA2033.htm", "6.png", "E2259", "0", "", "Actor0","{9731A341-EE5B-4f59-AF0A-A0C358457965}");
+tocTab[tocTab.length] = new Array("0.5.5:5", "", "Pengelola Jurnal ", "EARoot/EA5/EA5/EA2034.htm", "6.png", "E2262", "0", "", "Actor0","{351CD336-EAD9-4725-AB30-B6484461A0EB}");
+tocTab[tocTab.length] = new Array("0.5.5:6", "", "Pusbang KKN", "EARoot/EA5/EA5/EA2035.htm", "6.png", "E2260", "0", "", "Actor0","{2D49029F-DF02-4941-B81A-C15049D31558}");
+tocTab[tocTab.length] = new Array("0.5.5:7", "", "Database ", "EARoot/EA5/EA5/EA2037.htm", "8.png", "E484", "0", "", "Interface0","{AB068D40-5C57-4b35-91B3-E0FCEBC4DC78}");
+tocTab[tocTab.length] = new Array("0.5.5:8", "", "Google Web Service", "EARoot/EA5/EA5/EA2038.htm", "8.png", "E483", "0", "", "Interface0","{69548465-3F61-4822-BF19-61ECCD9045A1}");
