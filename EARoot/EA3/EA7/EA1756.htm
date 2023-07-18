@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Functional Decomposition Diagram</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA1757.png" usemap="#EA1757" border="0" />
+
+<MAP NAME="EA1757">
+<area shape="rect" coords="879,135,989,195" href="../EA5/EA3/EA1/EA975.htm" target="_self">
+<area shape="rect" coords="750,135,860,195" href="../EA5/EA3/EA3/EA1046.htm" target="_self">
+<area shape="rect" coords="618,135,728,195" href="../EA5/EA3/EA2/EA992.htm" target="_self">
+<area shape="rect" coords="483,135,593,195" href="../EA5/EA3/EA6/EA1195.htm" target="_self">
+<area shape="rect" coords="351,135,461,195" href="../EA5/EA3/EA5/EA1159.htm" target="_self">
+<area shape="rect" coords="224,135,334,195" href="../EA5/EA3/EA4/EA1064.htm" target="_self">
+<area shape="rect" coords="85,135,195,195" href="../EA5/EA3/EA7/EA1236.htm" target="_self">
+<area shape="rect" coords="618,49,728,109" href="../EA5/EA2/EA492.htm" target="_self">
+<area shape="rect" coords="483,49,593,109" href="../EA5/EA2/EA1/EA498.htm" target="_self">
+<area shape="rect" coords="351,49,461,109" href="../EA5/EA2/EA4/EA938.htm" target="_self">
+<area shape="rect" coords="222,49,332,109" href="../EA5/EA2/EA2/EA570.htm" target="_self">
+<area shape="rect" coords="87,49,197,109" href="../EA5/EA2/EA3/EA696.htm" target="_self">
+<area shape="rect" coords="521,274,631,334" href="../EA5/EA1/EA2/EA426.htm" target="_self">
+<area shape="rect" coords="674,274,784,334" href="../EA5/EA1/EA1/EA384.htm" target="_self">
+<area shape="rect" coords="379,273,489,333" href="../EA5/EA4/EA2/EA1622.htm" target="_self">
+<area shape="rect" coords="235,272,345,332" href="../EA5/EA4/EA1/EA1/EA1314.htm" target="_self">
+<area shape="rect" coords="91,272,201,332" href="../EA5/EA4/EA1/EA2/EA1446.htm" target="_self">
+<area shape="rect" coords="30,233,1081,369" href="../EA5/EA371.htm" target="_self">
+<area shape="rect" coords="30,10,1081,233" href="../EA5/EA370.htm" target="_self">
+<area shape="rect" coords="10,10,1081,369" href="EA1760.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Functional Decomposition Diagram : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/15/2018 12:24:27 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/3/2023 7:04:18 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Karno - Brain</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{0411D211-05AB-4205-9A41-C6E2367244E1}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

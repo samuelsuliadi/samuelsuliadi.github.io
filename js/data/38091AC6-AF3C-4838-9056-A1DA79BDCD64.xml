@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("0.2.1", "1", "Architecture Principles", "EARoot/EA2/EA1/EA20.htm", "4.png", "", "", "{88272DFB-FAD1-4db0-BB0C-CA3AC09288F7}", "Package");
-tocTab[tocTab.length] = new Array("0.2.2", "1", "Architecture Goals", "EARoot/EA2/EA2/EA65.htm", "4.png", "", "", "{22C12294-3973-4f76-8E21-05AB00B86D9C}", "Package");
-tocTab[tocTab.length] = new Array("0.2.3", "1", "Vision, Mission, and Strategic Planning", "EARoot/EA2/EA3/EA74.htm", "4.png", "", "", "{93A9121D-6249-4521-88A0-978D112A3353}", "Package");
-tocTab[tocTab.length] = new Array("0.2.4", "1", "Value Chain Diagram", "EARoot/EA2/EA4/EA100.htm", "4.png", "", "", "{533D0867-325F-4246-B52F-59B8350FD1C3}", "Package");
-tocTab[tocTab.length] = new Array("0.2.5", "1", "Business Model Canvas", "EARoot/EA2/EA5/EA112.htm", "4.png", "", "", "{4292CD84-7AB4-4c0e-9FF5-3A359BE6D546}", "Package");
-tocTab[tocTab.length] = new Array("0.2.6", "1", "Organization Decomposition Diagram", "EARoot/EA2/EA6/EA199.htm", "4.png", "", "", "{DE77F267-3ED6-49b1-BE5E-E17626C55E61}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Architecture Principles", "EARoot/EA2/EA1/EA26.htm", "4.png", "", "", "{88272DFB-FAD1-4db0-BB0C-CA3AC09288F7}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Architecture Goals", "EARoot/EA2/EA2/EA70.htm", "4.png", "", "", "{22C12294-3973-4f76-8E21-05AB00B86D9C}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "Vision, Mission, and Strategic Planning", "EARoot/EA2/EA3/EA79.htm", "4.png", "", "", "{93A9121D-6249-4521-88A0-978D112A3353}", "Package");
+tocTab[tocTab.length] = new Array("0.2.4", "1", "Value Chain Diagram", "EARoot/EA2/EA4/EA105.htm", "4.png", "", "", "{533D0867-325F-4246-B52F-59B8350FD1C3}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5", "1", "Business Model Canvas", "EARoot/EA2/EA5/EA117.htm", "4.png", "", "", "{4292CD84-7AB4-4c0e-9FF5-3A359BE6D546}", "Package");
+tocTab[tocTab.length] = new Array("0.2.6", "1", "Organization Decomposition Diagram", "EARoot/EA2/EA6/EA204.htm", "4.png", "", "", "{DE77F267-3ED6-49b1-BE5E-E17626C55E61}", "Package");

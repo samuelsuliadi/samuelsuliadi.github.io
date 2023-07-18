@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.2.1:1", "", "Architecture Principles", "EARoot/EA2/EA1/EA18.htm", "188.png", "2", "0", "", "Custom diagram0","{06B011DA-1177-4050-A0FF-A74F1E2CDE3C}");
-tocTab[tocTab.length] = new Array("0.2.1:2", "", "Fleksibel, Flexibel", "EARoot/EA2/EA1/EA57.htm", "5.png", "E36", "0", "", "Class0","{96EB0AE8-7032-44fb-A3FF-C2A3ED3F7617}");
-tocTab[tocTab.length] = new Array("0.2.1:3", "", "Kepatuhan, Obedience", "EARoot/EA2/EA1/EA58.htm", "5.png", "E16", "0", "", "Class0","{1A2AFBBA-2257-4790-83C7-8E0C39D29396}");
-tocTab[tocTab.length] = new Array("0.2.1:4", "", "Konsistensi, Consistency", "EARoot/EA2/EA1/EA59.htm", "5.png", "E24", "0", "", "Class0","{4D59CCAD-66D1-4b67-8A28-FDD16644C610}");
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Architecture Principles", "EARoot/EA2/EA1/EA24.htm", "188.png", "2", "0", "", "Custom diagram0","{06B011DA-1177-4050-A0FF-A74F1E2CDE3C}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "Fleksibel, Flexibel", "EARoot/EA2/EA1/EA62.htm", "5.png", "E36", "0", "", "Class0","{96EB0AE8-7032-44fb-A3FF-C2A3ED3F7617}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "Kepatuhan, Obedience", "EARoot/EA2/EA1/EA63.htm", "5.png", "E16", "0", "", "Class0","{1A2AFBBA-2257-4790-83C7-8E0C39D29396}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "Konsistensi, Consistency", "EARoot/EA2/EA1/EA64.htm", "5.png", "E24", "0", "", "Class0","{4D59CCAD-66D1-4b67-8A28-FDD16644C610}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.3.1.1", "1", "Operational Information Systems", "EARoot/EA6/EA3/EA1/EA1/EA2123.htm", "4.png", "", "", "{856BBD93-E825-4328-8A97-B2E01A4A859F}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.2", "1", "Public Information Systems", "EARoot/EA6/EA3/EA1/EA2/EA2126.htm", "4.png", "", "", "{643F5C49-26A4-45ce-883C-D2E6ED930B89}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.3", "1", "Strategic Information Systems", "EARoot/EA6/EA3/EA1/EA3/EA2129.htm", "4.png", "", "", "{E8114B85-03D4-4925-95BC-428E803962DB}", "Package");

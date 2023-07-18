@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("0.3.5.4:1", "", "Pengelolaan Tata Usaha", "EARoot/EA3/EA5/EA4/EA1281.htm", "189.png", "33", "0", "", "Analysis diagram0","{BC20200C-E535-4d70-920F-AAF0E9A90ECD}");
-tocTab[tocTab.length] = new Array("0.3.5.4:2", "", "Pengelolaan Tata Usaha", "EARoot/EA3/EA5/EA4/EA1286.htm", "116.png", "E263", "0", "", "ActivityPartition0","{6C4785C2-2E55-4aa3-A7AF-572423BD2C5C}");
-tocTab[tocTab.length] = new Array("0.3.5.4:3", "", "Program dan Akuntansi", "EARoot/EA3/EA5/EA4/EA1287.htm", "4C9380A5-0_Activity.png", "E377", "E263", "", "Activity0","{13567A94-FE89-4bc2-9C1C-FD714B50A03D}");
-tocTab[tocTab.length] = new Array("0.3.5.4:4", "", "Umum", "EARoot/EA3/EA5/EA4/EA1288.htm", "4C9380A5-0_Activity.png", "E378", "E263", "", "Activity0","{BA73CCB4-38AC-486b-8AD9-40DB43986207}");
-tocTab[tocTab.length] = new Array("0.3.5.4.1", "1", "Program dan Akuntansi", "EARoot/EA3/EA5/EA4/EA1/EA1291.htm", "4.png", "", "", "{B1F17278-FB6D-4c2a-AEAE-BFB8589D7071}", "Package");
-tocTab[tocTab.length] = new Array("0.3.5.4.2", "1", "Umum", "EARoot/EA3/EA5/EA4/EA2/EA1607.htm", "4.png", "", "", "{5FD7EC52-CD04-44f1-BFFE-4C38AF59EEB5}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.4:1", "", "Pengelolaan Tata Usaha", "EARoot/EA3/EA5/EA4/EA1298.htm", "189.png", "33", "0", "", "Analysis diagram0","{BC20200C-E535-4d70-920F-AAF0E9A90ECD}");
+tocTab[tocTab.length] = new Array("0.3.5.4:2", "", "Pengelolaan Tata Usaha", "EARoot/EA3/EA5/EA4/EA1303.htm", "116.png", "E263", "0", "", "ActivityPartition0","{6C4785C2-2E55-4aa3-A7AF-572423BD2C5C}");
+tocTab[tocTab.length] = new Array("0.3.5.4:3", "", "Program dan Akuntansi", "EARoot/EA3/EA5/EA4/EA1304.htm", "4C9380A5-0_Activity.png", "E377", "E263", "", "Activity0","{13567A94-FE89-4bc2-9C1C-FD714B50A03D}");
+tocTab[tocTab.length] = new Array("0.3.5.4:4", "", "Umum", "EARoot/EA3/EA5/EA4/EA1305.htm", "4C9380A5-0_Activity.png", "E378", "E263", "", "Activity0","{BA73CCB4-38AC-486b-8AD9-40DB43986207}");
+tocTab[tocTab.length] = new Array("0.3.5.4.1", "1", "Program dan Akuntansi", "EARoot/EA3/EA5/EA4/EA1/EA1308.htm", "4.png", "", "", "{B1F17278-FB6D-4c2a-AEAE-BFB8589D7071}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.4.2", "1", "Umum", "EARoot/EA3/EA5/EA4/EA2/EA1624.htm", "4.png", "", "", "{5FD7EC52-CD04-44f1-BFFE-4C38AF59EEB5}", "Package");

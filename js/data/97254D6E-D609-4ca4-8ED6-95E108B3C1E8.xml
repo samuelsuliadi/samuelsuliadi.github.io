@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.4.1:1", "", "Data Principles", "EARoot/EA4/EA1/EA1762.htm", "188.png", "41", "0", "", "Custom diagram0","{E37E9C87-EE02-4045-844D-7F6093EEFD0C}");
-tocTab[tocTab.length] = new Array("0.4.1:2", "", "Keamanan Data, Data Security", "EARoot/EA4/EA1/EA1766.htm", "5.png", "E399", "0", "", "Class0","{1E861736-5E99-45ee-B268-C22FED7FD35D}");
-tocTab[tocTab.length] = new Array("0.4.1:3", "", "Konsistensi, Consistency", "EARoot/EA4/EA1/EA1767.htm", "5.png", "E400", "0", "", "Class0","{760389C6-E1FB-400b-9F14-3C6682D7FE06}");
-tocTab[tocTab.length] = new Array("0.4.1:4", "", "Validitas Data, Data Validity", "EARoot/EA4/EA1/EA1768.htm", "5.png", "E398", "0", "", "Class0","{176E1A08-A879-4f3d-B2DC-90DE9A9A249D}");
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Data Principles", "EARoot/EA4/EA1/EA1779.htm", "188.png", "41", "0", "", "Custom diagram0","{E37E9C87-EE02-4045-844D-7F6093EEFD0C}");
+tocTab[tocTab.length] = new Array("0.4.1:2", "", "Keamanan Data, Data Security", "EARoot/EA4/EA1/EA1783.htm", "5.png", "E399", "0", "", "Class0","{1E861736-5E99-45ee-B268-C22FED7FD35D}");
+tocTab[tocTab.length] = new Array("0.4.1:3", "", "Konsistensi, Consistency", "EARoot/EA4/EA1/EA1784.htm", "5.png", "E400", "0", "", "Class0","{760389C6-E1FB-400b-9F14-3C6682D7FE06}");
+tocTab[tocTab.length] = new Array("0.4.1:4", "", "Validitas Data, Data Validity", "EARoot/EA4/EA1/EA1785.htm", "5.png", "E398", "0", "", "Class0","{176E1A08-A879-4f3d-B2DC-90DE9A9A249D}");

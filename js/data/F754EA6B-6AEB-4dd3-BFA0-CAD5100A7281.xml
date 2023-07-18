@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.3.6:1", "", "Standard and Regulation", "EARoot/EA3/EA6/EA1689.htm", "175.png", "34", "0", "", "UMLDiagram diagram0","{C61C35B4-0120-4a2e-8347-C1FDF22215DF}");
-tocTab[tocTab.length] = new Array("0.3.6.1", "1", "Regulation", "EARoot/EA3/EA6/EA1/EA1700.htm", "4.png", "", "", "{E3B47FF8-6BCA-4faa-B635-F8597F7D4BBA}", "Package");
-tocTab[tocTab.length] = new Array("0.3.6.2", "1", "Standard", "EARoot/EA3/EA6/EA2/EA1736.htm", "4.png", "", "", "{FB52BCE8-8568-418a-B182-BEECBB4D35C3}", "Package");
+tocTab[tocTab.length] = new Array("0.3.6:1", "", "Standard and Regulation", "EARoot/EA3/EA6/EA1706.htm", "175.png", "34", "0", "", "UMLDiagram diagram0","{C61C35B4-0120-4a2e-8347-C1FDF22215DF}");
+tocTab[tocTab.length] = new Array("0.3.6.1", "1", "Regulation", "EARoot/EA3/EA6/EA1/EA1717.htm", "4.png", "", "", "{E3B47FF8-6BCA-4faa-B635-F8597F7D4BBA}", "Package");
+tocTab[tocTab.length] = new Array("0.3.6.2", "1", "Standard", "EARoot/EA3/EA6/EA2/EA1753.htm", "4.png", "", "", "{FB52BCE8-8568-418a-B182-BEECBB4D35C3}", "Package");

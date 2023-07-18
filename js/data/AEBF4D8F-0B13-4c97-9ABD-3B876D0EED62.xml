@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.5.1:1", "", "Application Principles", "EARoot/EA5/EA1/EA1882.htm", "188.png", "49", "0", "", "Custom diagram0","{BCDFBC28-F95E-464f-85F5-0FF305B3B5F4}");
-tocTab[tocTab.length] = new Array("0.5.1:2", "", "Integrasi, Integration", "EARoot/EA5/EA1/EA1887.htm", "5.png", "E439", "0", "", "Class0","{2B88CCC0-053D-450e-A81E-091B27439044}");
-tocTab[tocTab.length] = new Array("0.5.1:3", "", "Kemandirian Teknologi", "EARoot/EA5/EA1/EA1888.htm", "5.png", "E440", "0", "", "Class0","{3C972B59-FDEE-43e1-9F79-9E7342F4B782}");
-tocTab[tocTab.length] = new Array("0.5.1:4", "", "Peringatan Dini, Early Warning", "EARoot/EA5/EA1/EA1889.htm", "5.png", "E438", "0", "", "Class0","{1721FBFE-C10F-4654-9D2D-BD29CB6B5D16}");
+tocTab[tocTab.length] = new Array("0.5.1:1", "", "Application Principles", "EARoot/EA5/EA1/EA1899.htm", "188.png", "49", "0", "", "Custom diagram0","{BCDFBC28-F95E-464f-85F5-0FF305B3B5F4}");
+tocTab[tocTab.length] = new Array("0.5.1:2", "", "Integrasi, Integration", "EARoot/EA5/EA1/EA1903.htm", "5.png", "E439", "0", "", "Class0","{2B88CCC0-053D-450e-A81E-091B27439044}");
+tocTab[tocTab.length] = new Array("0.5.1:3", "", "Kemandirian Teknologi", "EARoot/EA5/EA1/EA1904.htm", "5.png", "E440", "0", "", "Class0","{3C972B59-FDEE-43e1-9F79-9E7342F4B782}");
+tocTab[tocTab.length] = new Array("0.5.1:4", "", "Peringatan Dini, Early Warning", "EARoot/EA5/EA1/EA1905.htm", "5.png", "E438", "0", "", "Class0","{1721FBFE-C10F-4654-9D2D-BD29CB6B5D16}");
